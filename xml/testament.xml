@@ -6,13 +6,13 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Title</title>
+				<title>à compléter</title>
 			</titleStmt>
 			<publicationStmt>
-				<p>Publication Information</p>
+				<p>Non publié</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Information about the source</p>
+				<p>Testament de François Rebeyrotte, issue du site <title>Testaments de poilus</title>. <ref target="https://testaments-de-poilus.huma-num.fr/#!/edition/61/141">Lien direct</ref>.</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>

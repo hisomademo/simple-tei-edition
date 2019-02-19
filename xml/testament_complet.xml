@@ -18,7 +18,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="testament">
+			<div type="minute">
 				<head rend="centered"> Ceci est mon testament</head>
 				<p> Je <choice>
 					<sic>sous signe</sic>
@@ -47,7 +47,7 @@
 					</choice> </dateline> <signed rend="right"> <persName ref="60"><choice>
 					<sic>Francois</sic>
 					<corr>François</corr>
-					</choice> Rebeyrotte</persName></signed></closer>				
+					</choice> Rebeyrotte</persName></signed></closer>
 			</div>
 		</body>
 	</text>
