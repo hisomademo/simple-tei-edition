@@ -43,6 +43,8 @@
 				<item><ref target="../pierre.html">Pierre</ref></item>
 				<item><ref target="../sebastien.html">Sébastien</ref></item>
 			</list>
+			<list><item><ref target="../critical.html">Exercice 2</ref></item></list>
+			
 		</body>
 	</text>
 </TEI>
