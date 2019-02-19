@@ -20,7 +20,7 @@
 		<body>
 			<div>
 				<list>
-					<head>Exercice 1 - fichiers de travail</head>
+					<head rend="bold">Exercice 1 - fichiers de travail</head>
 					<item><ref target="../carmine.html">Carmine</ref></item>
 					<item><ref target="../djair.html">Djair</ref></item>
 					<item><ref target="../elodie.html">Élodie</ref></item>
