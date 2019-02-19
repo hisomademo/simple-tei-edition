@@ -20,7 +20,7 @@
 		<body>
 			<div>
 				<list>
-					<head>Exercice 1</head>
+					<head>Exercice 1 - fichiers de travail</head>
 					<item><ref target="../carmine.html">Carmine</ref></item>
 					<item><ref target="../djair.html">Djair</ref></item>
 					<item><ref target="../elodie.html">Élodie</ref></item>
@@ -44,6 +44,10 @@
 					<item><ref target="../pascal.html">Pascal</ref></item>
 					<item><ref target="../pierre.html">Pierre</ref></item>
 					<item><ref target="../sebastien.html">Sébastien</ref></item>
+				</list>
+				<list>
+					<head>Exercice 1 - proposition d'encodage</head>
+					<item><ref target="../testament_comple.html">valere_fautif</ref></item>
 				</list>
 				<list>
 					<head>Exercice 2</head>
