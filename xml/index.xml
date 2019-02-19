@@ -19,9 +19,29 @@
 	<text>
 		<body>
 			<list>
-				<item><ref target="../claire.html">claire</ref></item>
-				<item><ref target="../claire.html">claire</ref></item>
-				<item><ref target="../claire.html">claire</ref></item>
+				<item><ref target="../Carmine.html">Carmine</ref></item>
+				<item><ref target="../Djair.html">Djair</ref></item>
+				<item><ref target="../elodie.html">Élodie</ref></item>
+				<item><ref target="../elvira.html">Elvira</ref></item>
+				<item><ref target="../federico.html">Federico</ref></item>
+				<item><ref target="../florenceb.html">Florence B</ref></item>
+				<item><ref target="../florencek.html">Florence K</ref></item>
+				<item><ref target="../franck.html">Franck</ref></item>
+				<item><ref target="../gerard.html">Gérard</ref></item>
+				<item><ref target="../halima.html">Halima</ref></item>
+				<item><ref target="../ilaria.html">Ilaria</ref></item>
+				<item><ref target="../judith.html">Judith</ref></item>
+				<item><ref target="../laurent.html">Laurent</ref></item>
+				<item><ref target="../lea.html">Léa</ref></item>
+				<item><ref target="../luigi.html">Luigi</ref></item>
+				<item><ref target="../magdeleine.html">Magdeleine</ref></item>
+				<item><ref target="../marguerite.html">Marguerite</ref></item>
+				<item><ref target="../marie.html">Marie</ref></item>
+				<item><ref target="../mariegabrielle.html">Marie-Gabrielle</ref></item>
+				<item><ref target="../maylis.html">Maylis</ref></item>
+				<item><ref target="../pascal.html">Pascal</ref></item>
+				<item><ref target="../pierre.html">Pierre</ref></item>
+				<item><ref target="../sebastien.html">Sébastien</ref></item>				
 			</list>			
 		</body>
 	</text>
