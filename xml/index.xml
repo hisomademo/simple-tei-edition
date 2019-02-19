@@ -19,8 +19,8 @@
 	<text>
 		<body>
 			<list>
-				<item><ref target="../Carmine.html">Carmine</ref></item>
-				<item><ref target="../Djair.html">Djair</ref></item>
+				<item><ref target="../carmine.html">Carmine</ref></item>
+				<item><ref target="../djair.html">Djair</ref></item>
 				<item><ref target="../elodie.html">Élodie</ref></item>
 				<item><ref target="../elvira.html">Elvira</ref></item>
 				<item><ref target="../federico.html">Federico</ref></item>
@@ -41,8 +41,8 @@
 				<item><ref target="../maylis.html">Maylis</ref></item>
 				<item><ref target="../pascal.html">Pascal</ref></item>
 				<item><ref target="../pierre.html">Pierre</ref></item>
-				<item><ref target="../sebastien.html">Sébastien</ref></item>				
-			</list>			
+				<item><ref target="../sebastien.html">Sébastien</ref></item>
+			</list>
 		</body>
 	</text>
 </TEI>
