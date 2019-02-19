@@ -12,7 +12,10 @@
 				<p>Non publié</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Testament de François Rebeyrotte, issue du site <title>Testaments de poilus</title>. <ref target="https://testaments-de-poilus.huma-num.fr/#!/edition/61/141">Lien direct</ref>.</p>
+				<p>Testament de François Rebeyrotte, extrait du site 
+					<title>Testaments de poilus</title>. 
+					<ref target="https://testaments-de-poilus.huma-num.fr/#!/edition/61/141">Lien direct</ref>.
+				</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
