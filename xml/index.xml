@@ -19,9 +19,9 @@
 	<text>
 		<body>
 			<list>
-				<item><ref target="claire.html">claire</ref></item>
-				<item><ref target="claire.html">claire</ref></item>
-				<item><ref target="claire.html">claire</ref></item>
+				<item><ref target="../claire.html">claire</ref></item>
+				<item><ref target="../claire.html">claire</ref></item>
+				<item><ref target="../claire.html">claire</ref></item>
 			</list>			
 		</body>
 	</text>
