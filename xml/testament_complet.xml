@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Publication Information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="testament">
+				<head rend="centered"> Ceci est mon testament</head>
+				<p> Je <choice>
+					<sic>sous signe</sic>
+					<corr>soussigné</corr>
+					</choice> <persName ref="60"><choice>
+					<sic>Francois</sic>
+					<corr>François</corr>
+					</choice> <surname>Rebeyrotte</surname></persName>
+					<lb/> <del>institue</del> Je <choice>
+					<sic>legue</sic>
+					<corr>lègue</corr>
+					</choice> à ma femme tout
+					<lb/> ce que la loi me permet de lui
+					<lb/> donner en <choice>
+					<sic>Usufruit</sic>
+					<corr>usufruit.</corr>
+					</choice> </p>
+				<closer><dateline> Ecrit en entier de ma main
+					<lb/> à <placeName type="willPlace" ref="35">Versailles</placeName> le <date type="willDate" when="1914-08-03">3 trois <choice>
+					<sic>Aout</sic>
+					<corr>août</corr>
+					</choice>
+					<lb/> mil neuf cent quatorze</date><choice>
+					<sic/>
+					<corr>.</corr>
+					</choice> </dateline> <signed rend="right"> <persName ref="60"><choice>
+					<sic>Francois</sic>
+					<corr>François</corr>
+					</choice> Rebeyrotte</persName></signed></closer>				
+			</div>
+		</body>
+	</text>
+</TEI>
