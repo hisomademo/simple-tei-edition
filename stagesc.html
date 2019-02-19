@@ -18,7 +18,7 @@
 
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('xml/hisomademo.xml', function(data) {
+      CETEIcean.getHTML5('xml/exo_claire.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
