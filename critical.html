@@ -18,7 +18,7 @@
 
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('xml/lbp-1.0.0-critical-edition.xml', function(data) {
+      CETEIcean.getHTML5('xml/valere_fautif3.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
