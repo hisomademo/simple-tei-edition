@@ -20,7 +20,7 @@
 							<repository>Biblioteca Nacional</repository>
 							<idno>1622</idno>
 						</msIdentifier>
-						<head><abbr type="siglum">C1</abbr> = Madrid, Biblioteca National, 1622 (vers 1750)</head>
+						<head><abbr type="siglum">C<hi rend="sup" style="typo_Exposant">1</hi></abbr> = Madrid, Biblioteca National, 1622 (vers 1750)</head>
 						<history>
 							<origin><origDate precision="low" when="1750">vers 1750</origDate></origin>
 						</history>
@@ -112,18 +112,6 @@
 						<head><abbr type="siglum">T</abbr> = Madrid, Biblioteca Nacional, 10007 (copié en 902)</head>
 						<history>
 							<origin><origDate when="0902">copié en 902</origDate></origin>
-						</history>
-						</msDesc></witness>
-					<witness xml:id="Y"><msDesc>
-						<msIdentifier>
-							<settlement>New Haven</settlement>
-							<institution>Yale University</institution>
-							<repository>Beinecke Rare Book and Manuscript Library</repository>
-							<idno>625</idno>
-						</msIdentifier>
-						<head><abbr type="siglum">Y</abbr> = New Haven (Ct), Yale University, Beinecke Rare Book and Manuscript Library, 625 (fin XII<hi rend="sup" style="typo_Exposant">e</hi> s.)</head>
-						<history>
-							<origin><origDate notAfter="1200" notBefore="1180" precision="low">fin XII<hi rend="sup" style="typo_Exposant">e</hi> s.</origDate></origin>
 						</history>
 						</msDesc></witness>
 				</listWit>
