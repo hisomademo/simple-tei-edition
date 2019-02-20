@@ -19,9 +19,9 @@
 	<text>
 		<body>
 			<div>
-				<head>Ceci est mon testament</head>
-				<p>Je sous signe Francois Rebeyrotte institue Je legue à ma femme tout ce que la loi me permet de lui donner en Usufruit.</p>
-				<closer>Ecrit en entier de ma main à Versailles le 3 trois Aout mil neuf cent quatorze. Francois Rebeyrotte</closer>
+				<opener>Ceci est mon testament</opener>
+				<p>Je sous signe Francois Rebeyrotte <del>institue</del> <add>Je legue à ma femme tout ce que la loi me permet de lui donner en Usufruit.</add></p>
+				<closer>Ecrit en entier de ma main à Versailles <date>le 3 trois Aout mil neuf cent quatorze</date>. <signed>Francois Rebeyrotte</signed></closer>
 			</div>
 		</body>
 	</text>
