@@ -10,7 +10,7 @@
     <script src="build/CETEI.js"></script>
     <script>
       var CETEIcean = new CETEI();
-      CETEIcean.getHTML5('xml/exo_elvira.xml', function(data) {
+      CETEIcean.getHTML5('xml/exo_elvira2.xml', function(data) {
         document.getElementById("TEI").innerHTML = "";
         document.getElementById("TEI").appendChild(data);
         CETEIcean.addStyle(document, data);
