@@ -137,13 +137,14 @@
 					<rdg wit="#C3">eggressus</rdg>
 					</app> sum <app>
 					<lem wit="#C1 #C2 #C3 #E #L #P #Q #T">e corpore</lem>
-					<rdg wit="#O #T">a corpore</rdg>
+					<rdg wit="#O">a corpore</rdg>
 					</app>, susceptus sum ab angelo lucis, cuius <app>
 					<lem wit="#C1 #L #O #P #T">pulcritudinis</lem>
 					<rdg wit="#C2 #C3">pulchritudinis</rdg>
 					<rdg wit="#Q">pulcritudinem</rdg>
 					<rdg wit="#E">pulcridinis</rdg>
 					</app> <app>
+					<lem wit="#E #L #P #T">conparationem</lem>
 					<rdg wit="#C1 #C2 #C3">comparationem</rdg>
 					<rdg wit="#O">conparacionem</rdg>
 					<rdg wit="#Q">conparationis</rdg>
@@ -151,7 +152,7 @@
 					<lem wit="#C1 #C3 #E #L #O #P #Q #T">amenissimum</lem>
 					<rdg wit="#C2">amenisimum</rdg>
 					</app> locum, cuius uenustissimi <app>
-					<lem wit="#C1 #C2 #C3 #L #P #Q #T">decoris</lem>
+					<lem wit="#C1 #C2 #C3 #L #P #Q #T #E">decoris</lem>
 					<rdg wit="#O">dechoris</rdg>
 					</app> <app>
 					<lem wit="#C1 #C3 #E #L #O #P #Q #T">speciem</lem>
