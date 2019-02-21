@@ -6,7 +6,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>exercice d'Halima</title>
+				<title>exercice d'Elvira</title>
 			</titleStmt>
 			<publicationStmt>
 				<p>Non publié</p>
@@ -19,9 +19,9 @@
 	<text>
 		<body>
 			<div>
-				<head>Ceci est mon testament</head>
-				<p>Je sous signe Francois Rebeyrotte <del>institue</del> Je legue à ma femme tout ce que la loi me permet de lui donner en Usufruit.</p>
-				<closer>Ecrit en entier de ma main à Versailles le 3 trois <choice><sic>Aout</sic> <corr>(août)</corr></choice> mil neuf cent quatorze. <signed> Francois Rebeyrotte </signed></closer>
+				<pb/><lb/><head>Ceci est mon testament</head>
+				<p><lb/>Je <choice><sic>sous signe</sic><corr>soussigné</corr></choice> <persName><choice><sic>Francois</sic><corr>François</corr></choice> Rebeyrotte</persName> <lb/><del>institue</del> Je <choice><sic>legue</sic><corr>lègue</corr></choice> à ma <nameRef>femme</nameRef> tout ce que la loi me permet de lui donner en <choice><sic>Usufruit</sic><corr>usufruit</corr></choice>.</p>
+				<lb/><closer>Ecrit en entier de ma main à <placeName>Versailles</placeName> <dateline>le 3 trois <choice><sic>Aout</sic><corr>août</corr></choice> mil neuf cent quatorze</dateline>. <signed>Francois Rebeyrotte</signed> </closer>
 			</div>
 		</body>
 	</text>

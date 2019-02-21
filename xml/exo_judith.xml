@@ -12,7 +12,7 @@
 				<p>Non publié</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Testament de François Rebeyrotte, extrait du site <title>Testaments de poilus</title>. <ref target="https://testaments-de-poilus.huma-num.fr/#!/edition/61/141">Lien direct</ref>. </p>
+				<p>Testament de <persName>François Rebeyrotte</persName>, extrait du site <title>Testaments de poilus</title>. <ref target="https://testaments-de-poilus.huma-num.fr/#!/edition/61/141">Lien direct</ref>. </p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
@@ -20,8 +20,8 @@
 		<body>
 			<div>
 				<head>Ceci est mon testament</head>
-				<p>Je sous signe Francois Rebeyrotte institue Je legue à ma femme tout ce que la loi me permet de lui donner en Usufruit.</p>
-				<closer>Ecrit en entier de ma main à Versailles le 3 trois Aout mil neuf cent quatorze. Francois Rebeyrotte</closer>
+				<p>Je sous signe Francois Rebeyrotte institue <lb/>Je <orig>legue</orig><reg>lègue</reg> à ma femme tout ce que la loi me permet de lui donner en Usufruit.</p>
+				<closer>Ecrit en entier de ma main à Versailles <dateline>le 3 trois Aout mil neuf cent quatorze</dateline>. <signed><Francois Rebeyrotte/signed></closer>
 			</div>
 		</body>
 	</text>
